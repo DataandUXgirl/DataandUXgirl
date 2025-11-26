@@ -18,7 +18,7 @@ I'm a data analyst with a bachelors degree in Mathematics and Statistics (Statis
 
 My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
 
-When I'm not working with data, I enjoy creating content and learning new tools and techniques to level up my skills. I love the exiciting moment when data reveals something new and useful.
+When I'm not working with data, I enjoy watching predictive analysis movies like moneyball<3, creating content and learning new tools and techniques to level up my skills. I love the exiciting moment when data predicts something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
       
