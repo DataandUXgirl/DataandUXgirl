@@ -21,7 +21,6 @@ My focus is on building dashboards that get used, automating repetitive tasks to
 When I'm not working with data, I enjoy creating content and learning new tools and techniques to level up my skills. I love the exiciting moment when data reveals something new and useful.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
       
 ## 🔭 What I'm Currently Working On 
 
