@@ -4,7 +4,7 @@ I enjoy turning complex data into insights that drive real decisions.
 
 
 ## 🌱 What I’m Currently Working On  
-- Building **portfolio-ready data analytics case studies**  
+- Building **portfolio data analytics case studies**  
 - Strengthening SQL + Python for business problem-solving  
 - Exploring dashboard storytelling in Tableau & Power BI  
 
