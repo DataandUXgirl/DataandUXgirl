@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Keith  
+## 👋 Hi, I’m Tumini  
 Graduate of **Mathematics & Statistics** (Statistics/Computer) with a strong interest in all things **Data** — AI, Fintech, SaaS, B2B/B2C, and Open Source.  
 I enjoy turning complex data into insights that drive real decisions.
 
@@ -15,5 +15,4 @@ I enjoy turning complex data into insights that drive real decisions.
 
 
 ## 📫 How to Reach Me  
-**Email:** business@keithgalli.com  
-
+**Email:** tuminifubara@gmail.com
