@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m Tumini  
-Graduate of Mathematics & Statistics (Statistics/Computer) with a strong interest in all things Data for AI,Cloud, Fintech, SaaS, B2B/B2C, Tooling and Open Source.  
+Graduate of Mathematics & Statistics (Statistics/Computer) with a strong interest in all things Data for AI, Cloud, Fintech, SaaS, B2B/B2C, Tooling and Open Source.  
 I enjoy turning complex data into insights that drive real decisions.
 
 
