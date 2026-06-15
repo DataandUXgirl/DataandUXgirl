@@ -11,7 +11,7 @@ I enjoy turning complex data into insights that drive real decisions.
 
 ### 🛠️ Tools & Technologies  
 **Data:** SQL • Excel • Python (Pandas, NumPy)  
-**Visualization:** Tableau • Power BI  
+**Visualization:** Tableau • Looker (Google data studio)  
 
 
 ### 📫 How to Reach Me  
